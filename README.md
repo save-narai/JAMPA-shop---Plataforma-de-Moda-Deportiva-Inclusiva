@@ -1,6 +1,7 @@
 <p align="center">
 
-<img src="./assets/readme/banner-jampa.png" alt="Banner JAMPA Shop"/>
+<img width="1919" height="917" alt="Captura de pantalla 2026-08-03 201536 1" src="https://github.com/user-attachments/assets/7fc348fe-5cde-4f64-a9ab-8200c5ffea2a" />
+
 
 </p>
 
